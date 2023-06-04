@@ -17,6 +17,14 @@
  * limitations under the License.
  * 
  -->
+ 
+ This repo is essentially refactoring done to some aspects of https://github.com/UniTime/unitime . 
+ Tools Used:  Codacy for Static Code Analysis, Jira as ticketing system, PlantUML for class diagram generation.
+ 
+ Process was done in 2 phases:-
+ Phase 1 (pre-imp) included our own Project Description and techniques to reach that program comprehension + Static code analysis + Bug Description of the issues to be fixed
+ Phase 2 (post-imp) included the implemention of said refactoring in pull&merge reqs + Static code analysis pre and post implemention to showcase the difference + class diagram of the affected classes
+ 
 # UniTime
 
 Comprehensive University Timetabling System
